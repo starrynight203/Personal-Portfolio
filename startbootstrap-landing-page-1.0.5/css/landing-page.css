@@ -57,6 +57,11 @@ h6 {
   font-size: 17px;
 }
 
+.intro-social-buttons > h3 > a {
+    text-decoration: none;
+    color: #f8f8f8;
+}
+
 .intro-message {
     position: relative;
     padding-top: 20%;
